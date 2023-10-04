@@ -18,6 +18,7 @@ public interface BoardDAO {
 	 */
 	public List<BoardVO> getAllBoard();
 	
+	// 주석입니다.
 	/**
 	 * DB에 새로운 게시글을 등록한다.
 	 * @param boardVO 사용자가 입력한 게시글 정보(내용)
